@@ -1,0 +1,27 @@
+{
+  "name": "stream-adventure-code",
+  "version": "1.0.0",
+  "description": "Just solving some basics exercises regarding streams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "stream",
+    "adventure",
+    "node.js"
+  ],
+  "author": "Juan Bigorra",
+  "license": "MIT",
+  "dependencies": {
+    "concat-stream": "^1.6.2",
+    "duplexer2": "^0.1.4",
+    "request": "^2.85.0",
+    "split": "^1.0.1",
+    "split2": "^2.2.0",
+    "stream-combiner": "^0.2.2",
+    "through2": "^2.0.3",
+    "trumpet": "^1.7.2",
+    "websocket-stream": "^5.1.2"
+  }
+}
